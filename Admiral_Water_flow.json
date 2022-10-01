@@ -1,0 +1,5962 @@
+[
+    {
+        "id": "d6b69ab9504151ee",
+        "type": "tab",
+        "label": "Левый корпус",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "60ee0f2ddbb97297",
+        "type": "tab",
+        "label": "Правый корпус",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "08683c93c0132d54",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1b50b8f372a0fabe",
+            "ebceceecdc66e96f",
+            "9828c0cfed8da932",
+            "ef3cab0b95d2abc6",
+            "2d3658742dc50a43",
+            "94efca6ce81f6417",
+            "e3ddcfe3d209bf09",
+            "f3bdd0abb96a5ebf",
+            "9313df565822a3fc",
+            "2420231d0e569dfe",
+            "1c0df1301b234899",
+            "58d4d3a8611d3354",
+            "310b09d37fa02d8e",
+            "295765737c26e22c"
+        ],
+        "x": 234,
+        "y": 2419,
+        "w": 1722,
+        "h": 262
+    },
+    {
+        "id": "f426fccb6be4e0c2",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b6d821098011fd52",
+            "269f2761b3c99fb2",
+            "432c3586394865d2",
+            "22227530ccf90344",
+            "e7550308fb7ce5db",
+            "18282b08ec8ee04f",
+            "3e4773a16642cb4f",
+            "86d04d6dd45f18de",
+            "d45c41c90ebfb7e9",
+            "eeeaf6cc2dee3775"
+        ],
+        "x": 414,
+        "y": 379,
+        "w": 1312,
+        "h": 262
+    },
+    {
+        "id": "dbfc8d16b58d7382",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b36852c886c44327",
+            "812d53f710ec36ec",
+            "8539143f1c5478e9",
+            "784f6ac7c776633d",
+            "4ba971e138534d80",
+            "0ed29b90bfbeafc9",
+            "5380a28fc62cacc2",
+            "a7145fcdbb9a6c0f",
+            "9807ac73f89bd97f",
+            "8c55477ff0ac3a29",
+            "7ee63075d19842bf",
+            "809508d64538070a"
+        ],
+        "x": 414,
+        "y": 679,
+        "w": 1322,
+        "h": 262
+    },
+    {
+        "id": "bd885fbde0b4a9a8",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cfb8b767f00e16dd",
+            "ce5abb512c1954cc",
+            "59ef18fff2f31151",
+            "dcd1b690d7226299"
+        ],
+        "x": 414,
+        "y": 979,
+        "w": 1322,
+        "h": 142
+    },
+    {
+        "id": "a485865fe2349aad",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2d20cfac68190c12",
+            "777cf19ffdbc12ef",
+            "3c085fa6ca1f0f90",
+            "53e91e9459987acb",
+            "54b6c5b8ab4302a1",
+            "80f13fe46504ec65"
+        ],
+        "x": 414,
+        "y": 1159,
+        "w": 1352,
+        "h": 242
+    },
+    {
+        "id": "449dc49461a28521",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fa24fbf4237f9897",
+            "625e08a36e723ed8",
+            "64b020b6ba72a836",
+            "c54d08329c8b119d",
+            "a874f98d139d145e",
+            "542fbf69d3ffcf57",
+            "ca207994200347ac",
+            "5d46ab08f8b2e2c4",
+            "405c8a398f71f82b",
+            "d6456bca7acf2768",
+            "731e9d4ab9e73038",
+            "38e59bcb4af4fc6d"
+        ],
+        "x": 414,
+        "y": 1499,
+        "w": 1722,
+        "h": 262
+    },
+    {
+        "id": "8156c8ac01337007",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "50d3797a416ba02c",
+            "85a856217894dad0",
+            "64477c91cb98891b",
+            "f7fc75f3807a5ca8",
+            "1a656be3684ec9e3",
+            "0718b0f2600fc61a",
+            "a911a8dc55fe0236",
+            "062a364276da7c42",
+            "3d3ba4be94898a56",
+            "969e865f0ba24587",
+            "ccbf8b98e67b5c3e",
+            "b8f93824b8cb6fab",
+            "3ac7379a9f44c516"
+        ],
+        "x": 414,
+        "y": 1799,
+        "w": 1672,
+        "h": 302
+    },
+    {
+        "id": "8eb24987cc946cb6",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f9da2c133ff7862d",
+            "0bbe9f0d81955410",
+            "e47c1fd3919eb830",
+            "fa9d6abca9f11741",
+            "229d5d75cca81ce6",
+            "1a05584356a4133b",
+            "b055657a483bbadd",
+            "b1aac2b48b785865"
+        ],
+        "x": 434,
+        "y": 2139,
+        "w": 1692,
+        "h": 242
+    },
+    {
+        "id": "11a97b854602fab4",
+        "type": "group",
+        "z": "d6b69ab9504151ee",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e53bca4431e905a4",
+            "c508c911771e75fa",
+            "f1c8cbf20c1f231d",
+            "6b754e8ab56be93d",
+            "50be7e1818e05d8c",
+            "b6e1c6d809988b3f",
+            "cca0da590a43d2f9",
+            "136b137c30589148",
+            "913acc77f125564c",
+            "8956ddb1ad09ef15",
+            "7ef90dd0ab424e2b",
+            "61cbdc737fe8c7c1",
+            "fbc72d3222f84dfe",
+            "94c89017e3b8ee0a",
+            "8e8222a55261413f",
+            "ed71ba476f6c249a"
+        ],
+        "x": 414,
+        "y": 19,
+        "w": 1932,
+        "h": 322
+    },
+    {
+        "id": "9ec67397a8a91a53",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a96da37b70117c8e",
+            "90204de72817cc0d",
+            "7e6890f50eab6830",
+            "67418a338a478f71",
+            "5e5eb439e220ab9a",
+            "f21feacbbdaa0502",
+            "37156c17673f867e",
+            "a70220a41d3f35bb",
+            "96e729879ee0fec2",
+            "65e0a28a728f1a20",
+            "c22ea1c9fcd7e9e5",
+            "52507b6ee3d8a639",
+            "1a6c35d655e4a548",
+            "8ec46fd6ff1befa2",
+            "4ec5195359ee7194",
+            "35c2ae2e10381f1f",
+            "a222b01e16c7285e"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 2292,
+        "h": 322
+    },
+    {
+        "id": "9b1b3f06f866ca53",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "60500fc56e96bf74",
+            "f63f66b0c60462f7",
+            "0c50dfb0495eb3aa",
+            "3246964849573871",
+            "0c93d35cefc8da42",
+            "dc989f14695da12b",
+            "a4756802316d1255",
+            "5702c930b10bc370",
+            "6ab5a826bad4cd04",
+            "89435fbf19bc0d41",
+            "c47478edb2577ac3",
+            "8ac46342099ff281"
+        ],
+        "x": 14,
+        "y": 2599,
+        "w": 772,
+        "h": 422
+    },
+    {
+        "id": "c28b5d7d50c03304",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5a6bac124479c95b",
+            "d1369cb3620984a4",
+            "48bd0315f7ae7bcb",
+            "b7f9c3c2f915a89c",
+            "05bcf9f547138d5c",
+            "b92962c77fcc2a51",
+            "8854936aa882a2e2",
+            "c646e04281e49804",
+            "72d7cb115cc7de7c",
+            "7d6569c25069b813",
+            "59a53396b2a26471",
+            "87d7fb0d2953a5ed",
+            "768fba6a55084940",
+            "7c57371189daf748",
+            "da5e56d2af223e08",
+            "e5cc6027c29eb058"
+        ],
+        "x": 14,
+        "y": 2099,
+        "w": 1692,
+        "h": 462
+    },
+    {
+        "id": "ec292a0777c95488",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8deb2bf083cb69fb",
+            "7c01296f25ec44a4",
+            "86b9499965a1961f",
+            "f0a7a167d524b956",
+            "6bb0b8655b23ae70",
+            "546dee4ea20c104a",
+            "fe6718f0ae15b9bf",
+            "c4aa80e5997aba60",
+            "e62820846287917c",
+            "d8ebbfaccf6054c9",
+            "c18c8a215184d17e",
+            "5ff5460f3bb5ba41",
+            "68dd1eaefa0d0239",
+            "da3e46320662c7ba",
+            "1e32bbcb15b79e7a",
+            "d61109260b8e3353",
+            "59662372f101ef8a",
+            "ae602f7be9122605"
+        ],
+        "x": 14,
+        "y": 1559,
+        "w": 1322,
+        "h": 502
+    },
+    {
+        "id": "1dd895c4b4699422",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e255dd5836a82a9b",
+            "b161d4c67efbdc29",
+            "4f051dbcd946869d",
+            "260e165774de7191",
+            "c0d61c5d44941b51",
+            "1107d34639897b05",
+            "f352e14800ecedf9",
+            "64f47a543d40baae",
+            "b91b2424507e435b",
+            "79812c39e1e0c628"
+        ],
+        "x": 14,
+        "y": 1219,
+        "w": 1352,
+        "h": 302
+    },
+    {
+        "id": "858ae7ac6530a7f7",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "907ed531c2c8933d",
+            "ddc55c0c9f1b68de",
+            "357635c2b121a466",
+            "6dbdf7e49a87fc92",
+            "895604da31e9ee7c",
+            "6207513ecdbba7f8",
+            "ba44f1a54198c6c4"
+        ],
+        "x": 14,
+        "y": 979,
+        "w": 1422,
+        "h": 202
+    },
+    {
+        "id": "e4a0ab70a2301cc9",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e9e75046fbbd2b0d",
+            "56211a0726e4eac6",
+            "3c04daec8385d6be",
+            "97ea8d3e7171b46a",
+            "64faa845bdb2102a",
+            "7b2a9ab46d2eec19",
+            "39e8a2016a23844d",
+            "cc12ebd457edf92d",
+            "b33cfc0e4d2f5090",
+            "f1313308d371988e",
+            "6d3a075360ad7062",
+            "7b1c4d6e0f949d9a"
+        ],
+        "x": 14,
+        "y": 679,
+        "w": 1322,
+        "h": 262
+    },
+    {
+        "id": "7123e9f67d1fa728",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1f5b1b58e7a008a2",
+            "1cce155a9aaf10a1",
+            "9490e24bf3d05337",
+            "844115022f0a3261",
+            "a3aaf2a0d4e5b656",
+            "def907f7bec96d70",
+            "2d0e6856c52d9109",
+            "bba563a9ad27075c",
+            "c3f3ccb38877817e",
+            "87e4b69f730149c2"
+        ],
+        "x": 14,
+        "y": 379,
+        "w": 1312,
+        "h": 262
+    },
+    {
+        "id": "b6fb2917e4fbb698",
+        "type": "group",
+        "z": "60ee0f2ddbb97297",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f2441170e25ce3d9",
+            "80ee9245ba6b9f8b",
+            "621edbd23586523f",
+            "5fcf970c68b6e536",
+            "6441e37b7a9ad3c1",
+            "8eb2a3615f762e49",
+            "370f5a7780b5c3d3",
+            "8e7f2b0ad2323fa9",
+            "3781018225668dfe",
+            "30a93de296f94b2b",
+            "ee55da07f0ca2c20",
+            "37e2587a5fc53e79",
+            "0a94ce243a8f4e39",
+            "a284894e8205697b"
+        ],
+        "x": 14,
+        "y": 3059,
+        "w": 1462,
+        "h": 262
+    },
+    {
+        "id": "94793ee57ba7a387",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "Verdana,Verdana,Geneva,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#cea636",
+                "baseFont": "Palatino Linotype,Palatino,Book Antiqua,serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": true
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Verdana,Verdana,Geneva,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 20,
+                "gy": 10,
+                "cx": 2,
+                "cy": 4,
+                "px": 4,
+                "py": 4
+            }
+        }
+    },
+    {
+        "id": "0cc0934494106478",
+        "type": "ui_group",
+        "name": "Горячая купель",
+        "tab": "f4a6b9f849c90b95",
+        "order": 2,
+        "disp": true,
+        "width": "7",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "32e33b6e14df8f13",
+        "type": "ui_group",
+        "name": "Датчики левой горячей купели",
+        "tab": "672949c579bb5253",
+        "order": 1,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4fa1adf8af952db8",
+        "type": "ui_group",
+        "name": "Датчики левой холодной купели",
+        "tab": "672949c579bb5253",
+        "order": 3,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "dba011cf5f2618d8",
+        "type": "ui_group",
+        "name": "Холодная купель",
+        "tab": "f4a6b9f849c90b95",
+        "order": 4,
+        "disp": true,
+        "width": "7",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "03aaaad0a66f0bd4",
+        "type": "ui_group",
+        "name": "Датчики правой горячей купели",
+        "tab": "672949c579bb5253",
+        "order": 2,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d5a18aa1fb47ea8d",
+        "type": "ui_group",
+        "name": "Горячая купель",
+        "tab": "0295eea0417a75e4",
+        "order": 1,
+        "disp": true,
+        "width": "7",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "4ca916187768dfef",
+        "type": "ui_group",
+        "name": "Датчики правой холодной купели",
+        "tab": "672949c579bb5253",
+        "order": 4,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3f27d4ee5baef49c",
+        "type": "ui_group",
+        "name": "Холодная купель",
+        "tab": "0295eea0417a75e4",
+        "order": 2,
+        "disp": true,
+        "width": "7",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "fd861769db689d7a",
+        "type": "ui_group",
+        "name": "ЛЕВЫЙ (Горячая > Холодная)",
+        "tab": "50cc39f3a4d723bc",
+        "order": 1,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "aa6a2730c0d5d68c",
+        "type": "ui_group",
+        "name": "ПРАВЫЙ (Горячая > Холодная)",
+        "tab": "50cc39f3a4d723bc",
+        "order": 2,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f4a6b9f849c90b95",
+        "type": "ui_tab",
+        "name": "Левый корпус",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "0295eea0417a75e4",
+        "type": "ui_tab",
+        "name": "Правый корпус",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "50cc39f3a4d723bc",
+        "type": "ui_tab",
+        "name": "Сценарии",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "672949c579bb5253",
+        "type": "ui_tab",
+        "name": "Датчики",
+        "icon": "dashboard",
+        "order": 4,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e53bca4431e905a4",
+        "type": "ui_button",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "Запуск",
+        "group": "fd861769db689d7a",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "{{leftLabel || \"Запустить\"}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{background || \"green\"}}",
+        "className": "",
+        "icon": "",
+        "payload": "isStartedLeftScenario",
+        "payloadType": "global",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 860,
+        "y": 120,
+        "wires": [
+            [
+                "6b754e8ab56be93d"
+            ]
+        ],
+        "inputLabels": [
+            "Остановить"
+        ],
+        "outputLabels": [
+            "Запустить"
+        ]
+    },
+    {
+        "id": "c508c911771e75fa",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isStartedLeftScenario",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "isOpenedWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1700,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f1c8cbf20c1f231d",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 490,
+        "y": 120,
+        "wires": [
+            [
+                "50be7e1818e05d8c"
+            ]
+        ]
+    },
+    {
+        "id": "6b754e8ab56be93d",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "function 4",
+        "func": "msg.payload = !global.get(\"isStartedLeftScenario\");\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 120,
+        "wires": [
+            [
+                "c508c911771e75fa",
+                "cca0da590a43d2f9"
+            ]
+        ]
+    },
+    {
+        "id": "50be7e1818e05d8c",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "function 5",
+        "func": "msg.background = msg.payload ? \"red\" : \"green\";\nmsg.leftLabel = msg.payload ? \" Остановить\" : \"Запустить\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 120,
+        "wires": [
+            [
+                "e53bca4431e905a4"
+            ]
+        ]
+    },
+    {
+        "id": "b6d821098011fd52",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "",
+        "label": "Закрытия сливного крана",
+        "tooltip": "",
+        "group": "0cc0934494106478",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1240,
+        "y": 480,
+        "wires": [
+            [
+                "eeeaf6cc2dee3775"
+            ]
+        ]
+    },
+    {
+        "id": "eeeaf6cc2dee3775",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedHotDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1540,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "269f2761b3c99fb2",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 850,
+        "y": 480,
+        "wires": [
+            [
+                "b6d821098011fd52"
+            ]
+        ]
+    },
+    {
+        "id": "432c3586394865d2",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "Pooling - FLOW.isOpenedHotDrainer",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isOpenedHotDrainer",
+        "payloadType": "flow",
+        "x": 610,
+        "y": 480,
+        "wires": [
+            [
+                "269f2761b3c99fb2"
+            ]
+        ]
+    },
+    {
+        "id": "777cf19ffdbc12ef",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "a485865fe2349aad",
+        "name": "",
+        "label": "Открытие подачи воды",
+        "tooltip": "",
+        "group": "fd861769db689d7a",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1310,
+        "y": 1340,
+        "wires": [
+            [
+                "3c085fa6ca1f0f90"
+            ]
+        ]
+    },
+    {
+        "id": "3c085fa6ca1f0f90",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "a485865fe2349aad",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1610,
+        "y": 1340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1b50b8f372a0fabe",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "label": "Min Level",
+        "tooltip": "",
+        "group": "32e33b6e14df8f13",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 320,
+        "y": 2520,
+        "wires": [
+            [
+                "ef3cab0b95d2abc6"
+            ]
+        ]
+    },
+    {
+        "id": "ebceceecdc66e96f",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "label": "Normal Level",
+        "tooltip": "",
+        "group": "32e33b6e14df8f13",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 330,
+        "y": 2580,
+        "wires": [
+            [
+                "2d3658742dc50a43"
+            ]
+        ]
+    },
+    {
+        "id": "9828c0cfed8da932",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "label": "Max Level",
+        "tooltip": "",
+        "group": "32e33b6e14df8f13",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 330,
+        "y": 2640,
+        "wires": [
+            [
+                "94efca6ce81f6417"
+            ]
+        ]
+    },
+    {
+        "id": "625e08a36e723ed8",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "",
+        "label": "Циркуляция воды",
+        "tooltip": "",
+        "group": "0cc0934494106478",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1670,
+        "y": 1600,
+        "wires": [
+            [
+                "64b020b6ba72a836"
+            ]
+        ]
+    },
+    {
+        "id": "64b020b6ba72a836",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isCirculatedHotWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1950,
+        "y": 1600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c54d08329c8b119d",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1130,
+        "y": 1600,
+        "wires": [
+            [
+                "731e9d4ab9e73038"
+            ]
+        ]
+    },
+    {
+        "id": "a874f98d139d145e",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "Pooling - FLOW.isCirculatedHotWater",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isCirculatedHotWater",
+        "payloadType": "flow",
+        "x": 610,
+        "y": 1600,
+        "wires": [
+            [
+                "c54d08329c8b119d"
+            ]
+        ]
+    },
+    {
+        "id": "ef3cab0b95d2abc6",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isHotMinLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 2520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2d3658742dc50a43",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isHotNormalLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 870,
+        "y": 2580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b36852c886c44327",
+        "type": "ui_text_input",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "Заданная температура",
+        "label": "",
+        "tooltip": "",
+        "group": "0cc0934494106478",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1230,
+        "y": 780,
+        "wires": [
+            [
+                "809508d64538070a"
+            ]
+        ]
+    },
+    {
+        "id": "809508d64538070a",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetHotTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1530,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "731e9d4ab9e73038",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "function 6",
+        "func": "msg.payload = msg.payload \n    && global.get(\"isStartedLeftScenario\")\n    && flow.get(\"isHotMinLevelDone\") \n    && flow.get(\"currentHotTemperature\") < flow.get(\"targetHotTemperature\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1480,
+        "y": 1600,
+        "wires": [
+            [
+                "625e08a36e723ed8"
+            ]
+        ]
+    },
+    {
+        "id": "94efca6ce81f6417",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isHotMaxLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 2640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "53e91e9459987acb",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "a485865fe2349aad",
+        "name": "onWaterOpening",
+        "func": "msg.payload = \n    global.get(\"isStartedLeftScenario\") //true\n    && (!flow.get(\"isHotNormalLevelDone\") \n    || !flow.get(\"isColdNormalLevelDone\")\n        );\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1340,
+        "wires": [
+            [
+                "777cf19ffdbc12ef"
+            ]
+        ]
+    },
+    {
+        "id": "22227530ccf90344",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "Закрытие сливного крана горячей купели",
+        "info": "",
+        "x": 610,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "812d53f710ec36ec",
+        "type": "ui_text",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "group": "0cc0934494106478",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Целевая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 1020,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "ce5abb512c1954cc",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "bd885fbde0b4a9a8",
+        "name": "",
+        "label": "Поток на горячей купели",
+        "tooltip": "",
+        "group": "fd861769db689d7a",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1220,
+        "y": 1080,
+        "wires": [
+            [
+                "dcd1b690d7226299"
+            ]
+        ]
+    },
+    {
+        "id": "f9da2c133ff7862d",
+        "type": "ui_gauge",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "Уровень воды",
+        "group": "0cc0934494106478",
+        "order": 6,
+        "width": "0",
+        "height": "0",
+        "gtype": "wave",
+        "title": "",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 2020,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "b6e1c6d809988b3f",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "Запуск сценария левого корпуса",
+        "info": "",
+        "x": 580,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "cca0da590a43d2f9",
+        "type": "switch",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1210,
+        "y": 180,
+        "wires": [
+            [
+                "136b137c30589148",
+                "913acc77f125564c",
+                "fbc72d3222f84dfe"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "136b137c30589148",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedHotDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "isOpenedColdDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "isLeftHotWaterSelected",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1700,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "913acc77f125564c",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "targetHotTemperature",
+        "func": "msg.payload = flow.get(\"targetHotTemperature\") || 40;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1460,
+        "y": 240,
+        "wires": [
+            [
+                "8956ddb1ad09ef15"
+            ]
+        ]
+    },
+    {
+        "id": "8956ddb1ad09ef15",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetHotTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1750,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ed71ba476f6c249a",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "Флаг запуска процесса",
+        "info": "",
+        "x": 2030,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "7ef90dd0ab424e2b",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "Флаг закрытия сливных кранов купелей",
+        "info": "",
+        "x": 2080,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "61cbdc737fe8c7c1",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "Установка целевой температуры горячей купели",
+        "info": "",
+        "x": 2110,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "8539143f1c5478e9",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "Установка целевой температуры горячей купели",
+        "info": "",
+        "x": 630,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "cfb8b767f00e16dd",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "bd885fbde0b4a9a8",
+        "name": "Переключение потока на горячую купель",
+        "info": "",
+        "x": 610,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "784f6ac7c776633d",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 850,
+        "y": 780,
+        "wires": [
+            [
+                "b36852c886c44327"
+            ]
+        ]
+    },
+    {
+        "id": "4ba971e138534d80",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "Pooling - FLOW.targetHotTemperature",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "targetHotTemperature",
+        "payloadType": "flow",
+        "x": 620,
+        "y": 780,
+        "wires": [
+            [
+                "784f6ac7c776633d"
+            ]
+        ]
+    },
+    {
+        "id": "2d20cfac68190c12",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "a485865fe2349aad",
+        "name": "Открытие центрального крана подачи воды ",
+        "info": "",
+        "x": 610,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "59ef18fff2f31151",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "bd885fbde0b4a9a8",
+        "name": "onWaterFlowSwitching",
+        "func": "msg.payload = !(global.get(\"isStartedLeftScenario\") \n    && flow.get(\"isHotNormalLevelDone\"));\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 1080,
+        "wires": [
+            [
+                "ce5abb512c1954cc"
+            ]
+        ]
+    },
+    {
+        "id": "dcd1b690d7226299",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "bd885fbde0b4a9a8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isLeftHotWaterSelected",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1540,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e7550308fb7ce5db",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "",
+        "label": "Закрытия сливного крана",
+        "tooltip": "",
+        "group": "dba011cf5f2618d8",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1240,
+        "y": 600,
+        "wires": [
+            [
+                "18282b08ec8ee04f"
+            ]
+        ]
+    },
+    {
+        "id": "18282b08ec8ee04f",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedColdDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1550,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3e4773a16642cb4f",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 850,
+        "y": 600,
+        "wires": [
+            [
+                "e7550308fb7ce5db"
+            ]
+        ]
+    },
+    {
+        "id": "86d04d6dd45f18de",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "Pooling - FLOW.isOpenedColdDrainer",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isOpenedColdDrainer",
+        "payloadType": "flow",
+        "x": 610,
+        "y": 600,
+        "wires": [
+            [
+                "3e4773a16642cb4f"
+            ]
+        ]
+    },
+    {
+        "id": "d45c41c90ebfb7e9",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "f426fccb6be4e0c2",
+        "name": "Закрытие сливного крана холодной купели",
+        "info": "",
+        "x": 610,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "0ed29b90bfbeafc9",
+        "type": "ui_text_input",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "Заданная температура",
+        "label": "",
+        "tooltip": "",
+        "group": "dba011cf5f2618d8",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1230,
+        "y": 900,
+        "wires": [
+            [
+                "5380a28fc62cacc2"
+            ]
+        ]
+    },
+    {
+        "id": "5380a28fc62cacc2",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetColdTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1550,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a7145fcdbb9a6c0f",
+        "type": "ui_text",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "group": "dba011cf5f2618d8",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Целевая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 1020,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "9807ac73f89bd97f",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "Установка целевой температуры холодной купели",
+        "info": "",
+        "x": 640,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "8c55477ff0ac3a29",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 850,
+        "y": 900,
+        "wires": [
+            [
+                "0ed29b90bfbeafc9"
+            ]
+        ]
+    },
+    {
+        "id": "7ee63075d19842bf",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "dbfc8d16b58d7382",
+        "name": "Pooling - FLOW.targetColdTemperature",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "targetColdTemperature",
+        "payloadType": "flow",
+        "x": 620,
+        "y": 900,
+        "wires": [
+            [
+                "8c55477ff0ac3a29"
+            ]
+        ]
+    },
+    {
+        "id": "fbc72d3222f84dfe",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "targetColdTemperature",
+        "func": "msg.payload = flow.get(\"targetColdTemperature\") || 10;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1470,
+        "y": 300,
+        "wires": [
+            [
+                "94c89017e3b8ee0a"
+            ]
+        ]
+    },
+    {
+        "id": "94c89017e3b8ee0a",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetColdTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1750,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8e8222a55261413f",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "11a97b854602fab4",
+        "name": "Установка целевой температуры холодной купели",
+        "info": "",
+        "x": 2120,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "fa24fbf4237f9897",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "Циркуляция воды горячей купели",
+        "info": "",
+        "x": 580,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "50d3797a416ba02c",
+        "type": "ui_text_input",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "Текущая температура",
+        "label": "",
+        "tooltip": "",
+        "group": "32e33b6e14df8f13",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1150,
+        "y": 1900,
+        "wires": [
+            [
+                "85a856217894dad0"
+            ]
+        ]
+    },
+    {
+        "id": "85a856217894dad0",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentHotTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1450,
+        "y": 1900,
+        "wires": [
+            [
+                "f7fc75f3807a5ca8"
+            ]
+        ]
+    },
+    {
+        "id": "64477c91cb98891b",
+        "type": "ui_gauge",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "Текущая температура",
+        "group": "0cc0934494106478",
+        "order": 8,
+        "width": "0",
+        "height": "0",
+        "gtype": "gage",
+        "title": "",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "75",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 1950,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "f7fc75f3807a5ca8",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "function 29",
+        "func": "msg.payload = global.get(\"isStartedLeftScenario\") ? flow.get(\"currentHotTemperature\") : 0;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1690,
+        "y": 1900,
+        "wires": [
+            [
+                "64477c91cb98891b"
+            ]
+        ]
+    },
+    {
+        "id": "1a656be3684ec9e3",
+        "type": "ui_text",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "group": "32e33b6e14df8f13",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Текущая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 550,
+        "y": 1900,
+        "wires": []
+    },
+    {
+        "id": "b8f93824b8cb6fab",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "Термометр горячей купели",
+        "info": "",
+        "x": 560,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "0718b0f2600fc61a",
+        "type": "ui_text_input",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "Текущая температура",
+        "label": "",
+        "tooltip": "",
+        "group": "4fa1adf8af952db8",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1150,
+        "y": 2060,
+        "wires": [
+            [
+                "a911a8dc55fe0236"
+            ]
+        ]
+    },
+    {
+        "id": "a911a8dc55fe0236",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentColdTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1440,
+        "y": 2060,
+        "wires": [
+            [
+                "ccbf8b98e67b5c3e"
+            ]
+        ]
+    },
+    {
+        "id": "062a364276da7c42",
+        "type": "ui_gauge",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "Текущая температура",
+        "group": "dba011cf5f2618d8",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "75",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 1950,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "3d3ba4be94898a56",
+        "type": "ui_text",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "group": "4fa1adf8af952db8",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Текущая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 550,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "969e865f0ba24587",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "Термометр холодной купели",
+        "info": "",
+        "x": 560,
+        "y": 2000,
+        "wires": []
+    },
+    {
+        "id": "ccbf8b98e67b5c3e",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "function 30",
+        "func": "msg.payload = global.get(\"isStartedLeftScenario\") ? flow.get(\"currentColdTemperature\") : 0;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1690,
+        "y": 2060,
+        "wires": [
+            [
+                "062a364276da7c42"
+            ]
+        ]
+    },
+    {
+        "id": "542fbf69d3ffcf57",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "",
+        "label": "Циркуляция воды",
+        "tooltip": "",
+        "group": "dba011cf5f2618d8",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1670,
+        "y": 1720,
+        "wires": [
+            [
+                "ca207994200347ac"
+            ]
+        ]
+    },
+    {
+        "id": "ca207994200347ac",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isCirculatedColdWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1950,
+        "y": 1720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5d46ab08f8b2e2c4",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1130,
+        "y": 1720,
+        "wires": [
+            [
+                "405c8a398f71f82b"
+            ]
+        ]
+    },
+    {
+        "id": "405c8a398f71f82b",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "function 31",
+        "func": "msg.payload = global.get(\"isStartedLeftScenario\")\n    && flow.get(\"isColdMinLevelDone\")\n    && flow.get(\"currentColdTemperature\") < flow.get(\"targetColdTemperature\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1470,
+        "y": 1720,
+        "wires": [
+            [
+                "542fbf69d3ffcf57"
+            ]
+        ]
+    },
+    {
+        "id": "d6456bca7acf2768",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "Циркуляция воды холодной купели",
+        "info": "",
+        "x": 590,
+        "y": 1660,
+        "wires": []
+    },
+    {
+        "id": "e3ddcfe3d209bf09",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "label": "Min Level",
+        "tooltip": "",
+        "group": "4fa1adf8af952db8",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1480,
+        "y": 2520,
+        "wires": [
+            [
+                "2420231d0e569dfe"
+            ]
+        ]
+    },
+    {
+        "id": "f3bdd0abb96a5ebf",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "label": "Normal Level",
+        "tooltip": "",
+        "group": "4fa1adf8af952db8",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1490,
+        "y": 2580,
+        "wires": [
+            [
+                "1c0df1301b234899"
+            ]
+        ]
+    },
+    {
+        "id": "9313df565822a3fc",
+        "type": "ui_switch",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "label": "Max Level",
+        "tooltip": "",
+        "group": "4fa1adf8af952db8",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1490,
+        "y": 2640,
+        "wires": [
+            [
+                "58d4d3a8611d3354"
+            ]
+        ]
+    },
+    {
+        "id": "2420231d0e569dfe",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isColdMinLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1760,
+        "y": 2520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1c0df1301b234899",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isColdNormalLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1770,
+        "y": 2580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "58d4d3a8611d3354",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isColdMaxLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1770,
+        "y": 2640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0bbe9f0d81955410",
+        "type": "ui_gauge",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "Уровень воды",
+        "group": "dba011cf5f2618d8",
+        "order": 6,
+        "width": "0",
+        "height": "0",
+        "gtype": "wave",
+        "title": "",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 2020,
+        "y": 2340,
+        "wires": []
+    },
+    {
+        "id": "fa9d6abca9f11741",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "Уровень воды в горячей купели",
+        "info": "",
+        "x": 590,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "e47c1fd3919eb830",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "Уровень воды в холодной купели",
+        "info": "",
+        "x": 600,
+        "y": 2280,
+        "wires": []
+    },
+    {
+        "id": "295765737c26e22c",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "Датчики уровня воды в горячей купели",
+        "info": "",
+        "x": 420,
+        "y": 2460,
+        "wires": []
+    },
+    {
+        "id": "310b09d37fa02d8e",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "08683c93c0132d54",
+        "name": "Датчики уровня воды в холодной купели",
+        "info": "",
+        "x": 1580,
+        "y": 2460,
+        "wires": []
+    },
+    {
+        "id": "38e59bcb4af4fc6d",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "449dc49461a28521",
+        "name": "Pooling - FLOW.isCirculatedColdWater",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isCirculatedColdWater",
+        "payloadType": "flow",
+        "x": 620,
+        "y": 1720,
+        "wires": [
+            [
+                "5d46ab08f8b2e2c4"
+            ]
+        ]
+    },
+    {
+        "id": "3ac7379a9f44c516",
+        "type": "rbe",
+        "z": "d6b69ab9504151ee",
+        "g": "8156c8ac01337007",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1510,
+        "y": 1980,
+        "wires": [
+            [
+                "f7fc75f3807a5ca8",
+                "ccbf8b98e67b5c3e"
+            ]
+        ]
+    },
+    {
+        "id": "229d5d75cca81ce6",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "Pooling - FLOW.isHotMaxLevelDone",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotMaxLevelDone",
+        "payloadType": "flow",
+        "x": 630,
+        "y": 2220,
+        "wires": [
+            [
+                "1a05584356a4133b"
+            ]
+        ]
+    },
+    {
+        "id": "1a05584356a4133b",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "function 32",
+        "func": "let isMinLevel = flow.get(\"isHotMinLevelDone\");\nlet isNormalLevel = flow.get(\"isHotNormalLevelDone\");\nlet isMaxLevel = flow.get(\"isHotMaxLevelDone\");\n\nlet minLevelValue = isMinLevel? 30 : 0;\nlet normalLevelValue = isNormalLevel ? 50 : 0;\nlet maxLevelValue = isMaxLevel ? 20 : 0;\n\nlet count = minLevelValue + normalLevelValue + maxLevelValue\n\nmsg.payload = count;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1790,
+        "y": 2220,
+        "wires": [
+            [
+                "f9da2c133ff7862d"
+            ]
+        ]
+    },
+    {
+        "id": "b055657a483bbadd",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "Pooling - FLOW.isColdMaxLevelDone",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdMaxLevelDone",
+        "payloadType": "flow",
+        "x": 630,
+        "y": 2340,
+        "wires": [
+            [
+                "b1aac2b48b785865"
+            ]
+        ]
+    },
+    {
+        "id": "b1aac2b48b785865",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "g": "8eb24987cc946cb6",
+        "name": "function 33",
+        "func": "let isMinLevel = flow.get(\"isColdMinLevelDone\");\nlet isNormalLevel = flow.get(\"isColdNormalLevelDone\");\nlet isMaxLevel = flow.get(\"isColdMaxLevelDone\");\n\nlet minLevelValue = isMinLevel? 30 : 0;\nlet normalLevelValue = isNormalLevel ? 50 : 0;\nlet maxLevelValue = isMaxLevel ? 20 : 0;\n\nlet count = minLevelValue + normalLevelValue + maxLevelValue\n\nmsg.payload = count;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1790,
+        "y": 2340,
+        "wires": [
+            [
+                "0bbe9f0d81955410"
+            ]
+        ]
+    },
+    {
+        "id": "54b6c5b8ab4302a1",
+        "type": "comment",
+        "z": "d6b69ab9504151ee",
+        "g": "a485865fe2349aad",
+        "name": "Горячая купель",
+        "info": "",
+        "x": 540,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "80f13fe46504ec65",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "g": "a485865fe2349aad",
+        "name": "Pooling - FLOW.isOpenedWater",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isOpenedWater",
+        "payloadType": "flow",
+        "x": 600,
+        "y": 1360,
+        "wires": [
+            [
+                "53e91e9459987acb"
+            ]
+        ]
+    },
+    {
+        "id": "f9aabfa209607a9e",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - GLOBAL.isStartedLeftScenario",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isStartedLeftScenario",
+        "payloadType": "global",
+        "x": 180,
+        "y": 1280,
+        "wires": [
+            [
+                "f1c8cbf20c1f231d",
+                "59ef18fff2f31151",
+                "53e91e9459987acb",
+                "c54d08329c8b119d",
+                "5d46ab08f8b2e2c4",
+                "3ac7379a9f44c516"
+            ]
+        ]
+    },
+    {
+        "id": "01956e9bdac86818",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - GLOBAL.isLeftHotWaterSelected",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isLeftHotWaterSelected",
+        "payloadType": "global",
+        "x": 190,
+        "y": 1340,
+        "wires": [
+            [
+                "59ef18fff2f31151"
+            ]
+        ]
+    },
+    {
+        "id": "ab4dceb1306033c5",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - FLOW.isHotNormalLevelDone",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotNormalLevelDone",
+        "payloadType": "flow",
+        "x": 180,
+        "y": 1460,
+        "wires": [
+            [
+                "59ef18fff2f31151",
+                "53e91e9459987acb",
+                "1a05584356a4133b"
+            ]
+        ]
+    },
+    {
+        "id": "7406ecf4e3ca65f3",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - FLOW.isColdNormalLevelDone",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdNormalLevelDone",
+        "payloadType": "flow",
+        "x": 180,
+        "y": 1580,
+        "wires": [
+            [
+                "53e91e9459987acb",
+                "b1aac2b48b785865"
+            ]
+        ]
+    },
+    {
+        "id": "12831bb4f3cab105",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - FLOW.isHotMinLevelDone",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotMinLevelDone",
+        "payloadType": "flow",
+        "x": 170,
+        "y": 1400,
+        "wires": [
+            [
+                "c54d08329c8b119d",
+                "1a05584356a4133b"
+            ]
+        ]
+    },
+    {
+        "id": "e6c105ac746766e5",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - FLOW.isColdMinLevelDone",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdMinLevelDone",
+        "payloadType": "flow",
+        "x": 170,
+        "y": 1520,
+        "wires": [
+            [
+                "5d46ab08f8b2e2c4",
+                "b1aac2b48b785865"
+            ]
+        ]
+    },
+    {
+        "id": "e0bc41df6257fbca",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - FLOW.currentHotTemperature",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "currentHotTemperature",
+        "payloadType": "flow",
+        "x": 180,
+        "y": 1640,
+        "wires": [
+            [
+                "731e9d4ab9e73038",
+                "50d3797a416ba02c"
+            ]
+        ]
+    },
+    {
+        "id": "66bf778e035141a9",
+        "type": "inject",
+        "z": "d6b69ab9504151ee",
+        "name": "Pooling - FLOW.currentColdTemperature",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "currentColdTemperature",
+        "payloadType": "flow",
+        "x": 180,
+        "y": 1700,
+        "wires": [
+            [
+                "405c8a398f71f82b",
+                "0718b0f2600fc61a"
+            ]
+        ]
+    },
+    {
+        "id": "f2441170e25ce3d9",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "label": "Min Level",
+        "tooltip": "",
+        "group": "03aaaad0a66f0bd4",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 100,
+        "y": 3160,
+        "wires": [
+            [
+                "5fcf970c68b6e536"
+            ]
+        ]
+    },
+    {
+        "id": "80ee9245ba6b9f8b",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "label": "Normal Level",
+        "tooltip": "",
+        "group": "03aaaad0a66f0bd4",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 3220,
+        "wires": [
+            [
+                "6441e37b7a9ad3c1"
+            ]
+        ]
+    },
+    {
+        "id": "621edbd23586523f",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "label": "Max Level",
+        "tooltip": "",
+        "group": "03aaaad0a66f0bd4",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 3280,
+        "wires": [
+            [
+                "8eb2a3615f762e49"
+            ]
+        ]
+    },
+    {
+        "id": "5fcf970c68b6e536",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isHotMinLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 3160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6441e37b7a9ad3c1",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isHotNormalLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 390,
+        "y": 3220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8eb2a3615f762e49",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isHotMaxLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 3280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "370f5a7780b5c3d3",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "label": "Min Level",
+        "tooltip": "",
+        "group": "4ca916187768dfef",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1000,
+        "y": 3160,
+        "wires": [
+            [
+                "30a93de296f94b2b"
+            ]
+        ]
+    },
+    {
+        "id": "8e7f2b0ad2323fa9",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "label": "Normal Level",
+        "tooltip": "",
+        "group": "4ca916187768dfef",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1010,
+        "y": 3220,
+        "wires": [
+            [
+                "ee55da07f0ca2c20"
+            ]
+        ]
+    },
+    {
+        "id": "3781018225668dfe",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "label": "Max Level",
+        "tooltip": "",
+        "group": "4ca916187768dfef",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 1010,
+        "y": 3280,
+        "wires": [
+            [
+                "37e2587a5fc53e79"
+            ]
+        ]
+    },
+    {
+        "id": "30a93de296f94b2b",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isColdMinLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1280,
+        "y": 3160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ee55da07f0ca2c20",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isColdNormalLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1290,
+        "y": 3220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "37e2587a5fc53e79",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isColdMaxLevelDone",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1290,
+        "y": 3280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0a94ce243a8f4e39",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "Датчики уровня воды в холодной купели",
+        "info": "",
+        "x": 1100,
+        "y": 3100,
+        "wires": []
+    },
+    {
+        "id": "a284894e8205697b",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "b6fb2917e4fbb698",
+        "name": "Датчики уровня воды в горячей купели",
+        "info": "",
+        "x": 200,
+        "y": 3100,
+        "wires": []
+    },
+    {
+        "id": "1f5b1b58e7a008a2",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "",
+        "label": "Закрытия сливного крана",
+        "tooltip": "",
+        "group": "d5a18aa1fb47ea8d",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 840,
+        "y": 480,
+        "wires": [
+            [
+                "87e4b69f730149c2"
+            ]
+        ]
+    },
+    {
+        "id": "1cce155a9aaf10a1",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 450,
+        "y": 480,
+        "wires": [
+            [
+                "1f5b1b58e7a008a2"
+            ]
+        ]
+    },
+    {
+        "id": "9490e24bf3d05337",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isOpenedHotDrainer",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 480,
+        "wires": [
+            [
+                "1cce155a9aaf10a1"
+            ]
+        ]
+    },
+    {
+        "id": "844115022f0a3261",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "Закрытие сливного крана горячей купели",
+        "info": "",
+        "x": 210,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "a3aaf2a0d4e5b656",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "",
+        "label": "Закрытия сливного крана",
+        "tooltip": "",
+        "group": "3f27d4ee5baef49c",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 840,
+        "y": 600,
+        "wires": [
+            [
+                "def907f7bec96d70"
+            ]
+        ]
+    },
+    {
+        "id": "def907f7bec96d70",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedColdDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2d0e6856c52d9109",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 450,
+        "y": 600,
+        "wires": [
+            [
+                "a3aaf2a0d4e5b656"
+            ]
+        ]
+    },
+    {
+        "id": "bba563a9ad27075c",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isOpenedColdDrainer",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 600,
+        "wires": [
+            [
+                "2d0e6856c52d9109"
+            ]
+        ]
+    },
+    {
+        "id": "c3f3ccb38877817e",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "Закрытие сливного крана холодной купели",
+        "info": "",
+        "x": 210,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "87e4b69f730149c2",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "7123e9f67d1fa728",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedHotDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1140,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e9e75046fbbd2b0d",
+        "type": "ui_text_input",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "Заданная температура",
+        "label": "",
+        "tooltip": "",
+        "group": "d5a18aa1fb47ea8d",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 830,
+        "y": 780,
+        "wires": [
+            [
+                "7b1c4d6e0f949d9a"
+            ]
+        ]
+    },
+    {
+        "id": "56211a0726e4eac6",
+        "type": "ui_text",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "group": "d5a18aa1fb47ea8d",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Целевая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 620,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "3c04daec8385d6be",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "Установка целевой температуры горячей купели",
+        "info": "",
+        "x": 230,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "97ea8d3e7171b46a",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 450,
+        "y": 780,
+        "wires": [
+            [
+                "e9e75046fbbd2b0d"
+            ]
+        ]
+    },
+    {
+        "id": "64faa845bdb2102a",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "targetHotTemperature",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 780,
+        "wires": [
+            [
+                "97ea8d3e7171b46a"
+            ]
+        ]
+    },
+    {
+        "id": "7b2a9ab46d2eec19",
+        "type": "ui_text_input",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "Заданная температура",
+        "label": "",
+        "tooltip": "",
+        "group": "3f27d4ee5baef49c",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 830,
+        "y": 900,
+        "wires": [
+            [
+                "39e8a2016a23844d"
+            ]
+        ]
+    },
+    {
+        "id": "39e8a2016a23844d",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetColdTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cc12ebd457edf92d",
+        "type": "ui_text",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "group": "3f27d4ee5baef49c",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Целевая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 620,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "b33cfc0e4d2f5090",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "Установка целевой температуры холодной купели",
+        "info": "",
+        "x": 240,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "f1313308d371988e",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 450,
+        "y": 900,
+        "wires": [
+            [
+                "7b2a9ab46d2eec19"
+            ]
+        ]
+    },
+    {
+        "id": "6d3a075360ad7062",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "targetColdTemperature",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 900,
+        "wires": [
+            [
+                "f1313308d371988e"
+            ]
+        ]
+    },
+    {
+        "id": "7b1c4d6e0f949d9a",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "e4a0ab70a2301cc9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetHotTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1130,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "907ed531c2c8933d",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "858ae7ac6530a7f7",
+        "name": "Переключение потока на горячую купель",
+        "info": "",
+        "x": 210,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "ddc55c0c9f1b68de",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "858ae7ac6530a7f7",
+        "name": "",
+        "label": "Поток на горячей купели",
+        "tooltip": "",
+        "group": "aa6a2730c0d5d68c",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 920,
+        "y": 1120,
+        "wires": [
+            [
+                "6207513ecdbba7f8"
+            ]
+        ]
+    },
+    {
+        "id": "357635c2b121a466",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "858ae7ac6530a7f7",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isStartedRightScenario",
+        "payloadType": "global",
+        "x": 120,
+        "y": 1100,
+        "wires": [
+            [
+                "895604da31e9ee7c"
+            ]
+        ]
+    },
+    {
+        "id": "6dbdf7e49a87fc92",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "858ae7ac6530a7f7",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotNormalLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1140,
+        "wires": [
+            [
+                "895604da31e9ee7c"
+            ]
+        ]
+    },
+    {
+        "id": "895604da31e9ee7c",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "858ae7ac6530a7f7",
+        "name": "onWaterFlowSwitching",
+        "func": "msg.payload = \n!(\n    global.get(\"isStartedRightScenario\") \n    && flow.get(\"isHotNormalLevelDone\")\n    );\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 1120,
+        "wires": [
+            [
+                "ddc55c0c9f1b68de"
+            ]
+        ]
+    },
+    {
+        "id": "6207513ecdbba7f8",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "858ae7ac6530a7f7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isLeftHotWaterSelected",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1240,
+        "y": 1120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ba44f1a54198c6c4",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "858ae7ac6530a7f7",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isRightHotWaterSelected",
+        "payloadType": "global",
+        "x": 120,
+        "y": 1060,
+        "wires": [
+            [
+                "895604da31e9ee7c"
+            ]
+        ]
+    },
+    {
+        "id": "e255dd5836a82a9b",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "Открытие центрального крана подачи воды ",
+        "info": "",
+        "x": 210,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "b161d4c67efbdc29",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "",
+        "label": "Открытие подачи воды",
+        "tooltip": "",
+        "group": "aa6a2730c0d5d68c",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 910,
+        "y": 1420,
+        "wires": [
+            [
+                "4f051dbcd946869d"
+            ]
+        ]
+    },
+    {
+        "id": "4f051dbcd946869d",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1210,
+        "y": 1420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "260e165774de7191",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotNormalLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1400,
+        "wires": [
+            [
+                "c0d61c5d44941b51"
+            ]
+        ]
+    },
+    {
+        "id": "c0d61c5d44941b51",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "onWaterOpening",
+        "func": "msg.payload = \n    global.get(\"isStartedRightScenario\") //true\n    && (\n        !flow.get(\"isHotNormalLevelDone\") || !flow.get(\"isColdNormalLevelDone\")\n    );\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 1420,
+        "wires": [
+            [
+                "b161d4c67efbdc29"
+            ]
+        ]
+    },
+    {
+        "id": "1107d34639897b05",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdNormalLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1480,
+        "wires": [
+            [
+                "c0d61c5d44941b51"
+            ]
+        ]
+    },
+    {
+        "id": "f352e14800ecedf9",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdMaxLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "64f47a543d40baae",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isStartedRightScenario",
+        "payloadType": "global",
+        "x": 120,
+        "y": 1360,
+        "wires": [
+            [
+                "c0d61c5d44941b51"
+            ]
+        ]
+    },
+    {
+        "id": "b91b2424507e435b",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "Горячая купель",
+        "info": "",
+        "x": 140,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "79812c39e1e0c628",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "1dd895c4b4699422",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isOpenedWater",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1440,
+        "wires": [
+            [
+                "c0d61c5d44941b51"
+            ]
+        ]
+    },
+    {
+        "id": "8deb2bf083cb69fb",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Циркуляция воды горячей купели",
+        "info": "",
+        "x": 180,
+        "y": 1600,
+        "wires": []
+    },
+    {
+        "id": "7c01296f25ec44a4",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "",
+        "label": "Циркуляция воды",
+        "tooltip": "",
+        "group": "d5a18aa1fb47ea8d",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 810,
+        "y": 1700,
+        "wires": [
+            [
+                "86b9499965a1961f"
+            ]
+        ]
+    },
+    {
+        "id": "86b9499965a1961f",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isCirculatedHotWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 1700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f0a7a167d524b956",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 450,
+        "y": 1700,
+        "wires": [
+            [
+                "da3e46320662c7ba"
+            ]
+        ]
+    },
+    {
+        "id": "6bb0b8655b23ae70",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isCirculatedHotWater",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1700,
+        "wires": [
+            [
+                "f0a7a167d524b956"
+            ]
+        ]
+    },
+    {
+        "id": "546dee4ea20c104a",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "currentHotTemperature",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1780,
+        "wires": [
+            [
+                "da3e46320662c7ba"
+            ]
+        ]
+    },
+    {
+        "id": "fe6718f0ae15b9bf",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isStartedRightScenario",
+        "payloadType": "global",
+        "x": 120,
+        "y": 1660,
+        "wires": [
+            [
+                "f0a7a167d524b956"
+            ]
+        ]
+    },
+    {
+        "id": "c4aa80e5997aba60",
+        "type": "ui_switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "",
+        "label": "Циркуляция воды",
+        "tooltip": "",
+        "group": "3f27d4ee5baef49c",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 810,
+        "y": 1940,
+        "wires": [
+            [
+                "e62820846287917c"
+            ]
+        ]
+    },
+    {
+        "id": "e62820846287917c",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isCirculatedColdWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 1940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d8ebbfaccf6054c9",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 450,
+        "y": 1940,
+        "wires": [
+            [
+                "c18c8a215184d17e"
+            ]
+        ]
+    },
+    {
+        "id": "c18c8a215184d17e",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "function 34",
+        "func": "msg.payload = global.get(\"isStartedRightScenario\")\n    && flow.get(\"isColdMinLevelDone\")\n    && flow.get(\"currentColdTemperature\") < flow.get(\"targetColdTemperature\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1940,
+        "wires": [
+            [
+                "c4aa80e5997aba60"
+            ]
+        ]
+    },
+    {
+        "id": "5ff5460f3bb5ba41",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isStartedRightScenario",
+        "payloadType": "global",
+        "x": 120,
+        "y": 1900,
+        "wires": [
+            [
+                "d8ebbfaccf6054c9"
+            ]
+        ]
+    },
+    {
+        "id": "68dd1eaefa0d0239",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Циркуляция воды холодной купели",
+        "info": "",
+        "x": 190,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "da3e46320662c7ba",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "function 35",
+        "func": "msg.payload = msg.payload \n    && global.get(\"isStartedRightScenario\")\n    && flow.get(\"isHotMinLevelDone\") \n    && flow.get(\"currentHotTemperature\") < flow.get(\"targetHotTemperature\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 1700,
+        "wires": [
+            [
+                "7c01296f25ec44a4"
+            ]
+        ]
+    },
+    {
+        "id": "1e32bbcb15b79e7a",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotMinLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1740,
+        "wires": [
+            [
+                "f0a7a167d524b956"
+            ]
+        ]
+    },
+    {
+        "id": "d61109260b8e3353",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdMinLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1980,
+        "wires": [
+            [
+                "d8ebbfaccf6054c9"
+            ]
+        ]
+    },
+    {
+        "id": "59662372f101ef8a",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isCirculatedColdWater",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 1940,
+        "wires": [
+            [
+                "d8ebbfaccf6054c9"
+            ]
+        ]
+    },
+    {
+        "id": "ae602f7be9122605",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "ec292a0777c95488",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "currentColdTemperature",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2020,
+        "wires": [
+            [
+                "c18c8a215184d17e"
+            ]
+        ]
+    },
+    {
+        "id": "5a6bac124479c95b",
+        "type": "ui_text_input",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Текущая температура",
+        "label": "",
+        "tooltip": "",
+        "group": "03aaaad0a66f0bd4",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 770,
+        "y": 2280,
+        "wires": [
+            [
+                "d1369cb3620984a4"
+            ]
+        ]
+    },
+    {
+        "id": "d1369cb3620984a4",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentHotTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1070,
+        "y": 2280,
+        "wires": [
+            [
+                "b7f9c3c2f915a89c"
+            ]
+        ]
+    },
+    {
+        "id": "48bd0315f7ae7bcb",
+        "type": "ui_gauge",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Текущая температура",
+        "group": "d5a18aa1fb47ea8d",
+        "order": 8,
+        "width": "0",
+        "height": "0",
+        "gtype": "gage",
+        "title": "",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "75",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 1570,
+        "y": 2280,
+        "wires": []
+    },
+    {
+        "id": "b7f9c3c2f915a89c",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "function 36",
+        "func": "msg.payload = global.get(\"isStartedRightScenario\") ? flow.get(\"currentHotTemperature\") : 0;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1310,
+        "y": 2280,
+        "wires": [
+            [
+                "48bd0315f7ae7bcb"
+            ]
+        ]
+    },
+    {
+        "id": "05bcf9f547138d5c",
+        "type": "ui_text",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "group": "03aaaad0a66f0bd4",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Текущая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 170,
+        "y": 2200,
+        "wires": []
+    },
+    {
+        "id": "b92962c77fcc2a51",
+        "type": "ui_text_input",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Текущая температура",
+        "label": "",
+        "tooltip": "",
+        "group": "4ca916187768dfef",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "300",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 770,
+        "y": 2520,
+        "wires": [
+            [
+                "8854936aa882a2e2"
+            ]
+        ]
+    },
+    {
+        "id": "8854936aa882a2e2",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentColdTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1060,
+        "y": 2520,
+        "wires": [
+            [
+                "59a53396b2a26471"
+            ]
+        ]
+    },
+    {
+        "id": "c646e04281e49804",
+        "type": "ui_gauge",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Текущая температура",
+        "group": "3f27d4ee5baef49c",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "75",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 1570,
+        "y": 2520,
+        "wires": []
+    },
+    {
+        "id": "72d7cb115cc7de7c",
+        "type": "ui_text",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "group": "4ca916187768dfef",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Текущая температура",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 170,
+        "y": 2440,
+        "wires": []
+    },
+    {
+        "id": "7d6569c25069b813",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Термометр холодной купели",
+        "info": "",
+        "x": 180,
+        "y": 2380,
+        "wires": []
+    },
+    {
+        "id": "59a53396b2a26471",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "function 37",
+        "func": "msg.payload = global.get(\"isStartedRightScenario\") ? flow.get(\"currentColdTemperature\") : 0;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1310,
+        "y": 2520,
+        "wires": [
+            [
+                "c646e04281e49804"
+            ]
+        ]
+    },
+    {
+        "id": "87d7fb0d2953a5ed",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "currentHotTemperature",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2280,
+        "wires": [
+            [
+                "5a6bac124479c95b"
+            ]
+        ]
+    },
+    {
+        "id": "768fba6a55084940",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Термометр горячей купели",
+        "info": "",
+        "x": 180,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "7c57371189daf748",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "currentColdTemperature",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2520,
+        "wires": [
+            [
+                "b92962c77fcc2a51"
+            ]
+        ]
+    },
+    {
+        "id": "da5e56d2af223e08",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isStartedRightScenario",
+        "payloadType": "global",
+        "x": 900,
+        "y": 2380,
+        "wires": [
+            [
+                "e5cc6027c29eb058"
+            ]
+        ]
+    },
+    {
+        "id": "e5cc6027c29eb058",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "c28b5d7d50c03304",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1070,
+        "y": 2380,
+        "wires": [
+            [
+                "b7f9c3c2f915a89c",
+                "59a53396b2a26471"
+            ]
+        ]
+    },
+    {
+        "id": "60500fc56e96bf74",
+        "type": "ui_gauge",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Уровень воды",
+        "group": "d5a18aa1fb47ea8d",
+        "order": 6,
+        "width": "0",
+        "height": "0",
+        "gtype": "wave",
+        "title": "",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 680,
+        "y": 2740,
+        "wires": []
+    },
+    {
+        "id": "f63f66b0c60462f7",
+        "type": "ui_gauge",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Уровень воды",
+        "group": "3f27d4ee5baef49c",
+        "order": 6,
+        "width": "0",
+        "height": "0",
+        "gtype": "wave",
+        "title": "",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "25",
+        "seg2": "55",
+        "className": "",
+        "x": 680,
+        "y": 2940,
+        "wires": []
+    },
+    {
+        "id": "0c50dfb0495eb3aa",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Уровень воды в холодной купели",
+        "info": "",
+        "x": 180,
+        "y": 2840,
+        "wires": []
+    },
+    {
+        "id": "3246964849573871",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Уровень воды в горячей купели",
+        "info": "",
+        "x": 170,
+        "y": 2640,
+        "wires": []
+    },
+    {
+        "id": "0c93d35cefc8da42",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotMinLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2700,
+        "wires": [
+            [
+                "5702c930b10bc370"
+            ]
+        ]
+    },
+    {
+        "id": "dc989f14695da12b",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotNormalLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2740,
+        "wires": [
+            [
+                "5702c930b10bc370"
+            ]
+        ]
+    },
+    {
+        "id": "a4756802316d1255",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isHotMaxLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2780,
+        "wires": [
+            [
+                "5702c930b10bc370"
+            ]
+        ]
+    },
+    {
+        "id": "5702c930b10bc370",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "function 38",
+        "func": "let isMinLevel = flow.get(\"isHotMinLevelDone\");\nlet isNormalLevel = flow.get(\"isHotNormalLevelDone\");\nlet isMaxLevel = flow.get(\"isHotMaxLevelDone\");\n\nlet minLevelValue = isMinLevel? 30 : 0;\nlet normalLevelValue = isNormalLevel ? 50 : 0;\nlet maxLevelValue = isMaxLevel ? 20 : 0;\n\nlet count = minLevelValue + normalLevelValue + maxLevelValue\n\nmsg.payload = count;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 2740,
+        "wires": [
+            [
+                "60500fc56e96bf74"
+            ]
+        ]
+    },
+    {
+        "id": "6ab5a826bad4cd04",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdMaxLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2980,
+        "wires": [
+            [
+                "89435fbf19bc0d41"
+            ]
+        ]
+    },
+    {
+        "id": "89435fbf19bc0d41",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "function 39",
+        "func": "let isMinLevel = flow.get(\"isColdMinLevelDone\");\nlet isNormalLevel = flow.get(\"isColdNormalLevelDone\");\nlet isMaxLevel = flow.get(\"isColdMaxLevelDone\");\n\nlet minLevelValue = isMinLevel? 30 : 0;\nlet normalLevelValue = isNormalLevel ? 50 : 0;\nlet maxLevelValue = isMaxLevel ? 20 : 0;\n\nlet count = minLevelValue + normalLevelValue + maxLevelValue\n\nmsg.payload = count;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 2940,
+        "wires": [
+            [
+                "f63f66b0c60462f7"
+            ]
+        ]
+    },
+    {
+        "id": "c47478edb2577ac3",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdMinLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2900,
+        "wires": [
+            [
+                "89435fbf19bc0d41"
+            ]
+        ]
+    },
+    {
+        "id": "8ac46342099ff281",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "9b1b3f06f866ca53",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isColdNormalLevelDone",
+        "payloadType": "flow",
+        "x": 120,
+        "y": 2940,
+        "wires": [
+            [
+                "89435fbf19bc0d41"
+            ]
+        ]
+    },
+    {
+        "id": "a96da37b70117c8e",
+        "type": "ui_button",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "Запуск",
+        "group": "aa6a2730c0d5d68c",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "{{rightLabel || \"Запустить\"}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{background || \"green\"}}",
+        "className": "",
+        "icon": "",
+        "payload": "isStartedRightScenario",
+        "payloadType": "global",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 820,
+        "y": 120,
+        "wires": [
+            [
+                "67418a338a478f71"
+            ]
+        ],
+        "inputLabels": [
+            "Остановить"
+        ],
+        "outputLabels": [
+            "Запустить"
+        ]
+    },
+    {
+        "id": "90204de72817cc0d",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isStartedRightScenario",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "isOpenedWater",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1660,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7e6890f50eab6830",
+        "type": "rbe",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 450,
+        "y": 120,
+        "wires": [
+            [
+                "5e5eb439e220ab9a"
+            ]
+        ]
+    },
+    {
+        "id": "67418a338a478f71",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "function 40",
+        "func": "msg.payload = !global.get(\"isStartedRightScenario\");\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1000,
+        "y": 120,
+        "wires": [
+            [
+                "90204de72817cc0d",
+                "a70220a41d3f35bb"
+            ]
+        ]
+    },
+    {
+        "id": "5e5eb439e220ab9a",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "function 41",
+        "func": "msg.background = msg.payload ? \"red\" : \"green\";\nmsg.rightLabel = msg.payload ? \" Остановить\" : \"Запустить\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 120,
+        "wires": [
+            [
+                "a96da37b70117c8e"
+            ]
+        ]
+    },
+    {
+        "id": "f21feacbbdaa0502",
+        "type": "inject",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "Pooling",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "isStartedRightScenario",
+        "payloadType": "global",
+        "x": 120,
+        "y": 120,
+        "wires": [
+            [
+                "7e6890f50eab6830"
+            ]
+        ]
+    },
+    {
+        "id": "37156c17673f867e",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "Запуск сценария правого корпуса",
+        "info": "",
+        "x": 180,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "a70220a41d3f35bb",
+        "type": "switch",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1170,
+        "y": 180,
+        "wires": [
+            [
+                "96e729879ee0fec2",
+                "65e0a28a728f1a20",
+                "8ec46fd6ff1befa2"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "96e729879ee0fec2",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "isOpenedHotDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "isOpenedColdDrainer",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "isRightHotWaterSelected",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1660,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "65e0a28a728f1a20",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "targetHotTemperature",
+        "func": "msg.payload = flow.get(\"targetHotTemperature\") || 40;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1420,
+        "y": 240,
+        "wires": [
+            [
+                "c22ea1c9fcd7e9e5"
+            ]
+        ]
+    },
+    {
+        "id": "c22ea1c9fcd7e9e5",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetHotTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "52507b6ee3d8a639",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "Флаг закрытия сливных кранов купелей",
+        "info": "",
+        "x": 2040,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "1a6c35d655e4a548",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "Установка целевой температуры горячей купели",
+        "info": "",
+        "x": 2070,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "8ec46fd6ff1befa2",
+        "type": "function",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "targetColdTemperature",
+        "func": "msg.payload = flow.get(\"targetColdTemperature\") || 10;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1430,
+        "y": 300,
+        "wires": [
+            [
+                "4ec5195359ee7194"
+            ]
+        ]
+    },
+    {
+        "id": "4ec5195359ee7194",
+        "type": "change",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "targetColdTemperature",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "35c2ae2e10381f1f",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "Установка целевой температуры холодной купели",
+        "info": "",
+        "x": 2080,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "a222b01e16c7285e",
+        "type": "comment",
+        "z": "60ee0f2ddbb97297",
+        "g": "9ec67397a8a91a53",
+        "name": "Флаг запуска процесса",
+        "info": "",
+        "x": 1990,
+        "y": 120,
+        "wires": []
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "name": "Admiral_Water",
+    "description": "Node-RED проект",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "Admiral_Water_flow.json",
+            "credentialsFile": "Admiral_Water_flow_cred.json"
+        }
+    }
+}
