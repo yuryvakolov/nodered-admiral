@@ -814,6 +814,31 @@
         "hidden": false
     },
     {
+        "id": "9c545162aab5227a",
+        "type": "telegram bot",
+        "botname": "AdmiralBathBot",
+        "usernames": "",
+        "chatids": "",
+        "baseapiurl": "",
+        "updatemode": "polling",
+        "pollinterval": "300",
+        "usesocks": false,
+        "sockshost": "",
+        "socksprotocol": "socks5",
+        "socksport": "6667",
+        "socksusername": "anonymous",
+        "sockspassword": "",
+        "bothost": "",
+        "botpath": "",
+        "localbotport": "8443",
+        "publicbotport": "8443",
+        "privatekey": "",
+        "certificate": "",
+        "useselfsignedcertificate": false,
+        "sslterminated": false,
+        "verboselogging": false
+    },
+    {
         "id": "e53bca4431e905a4",
         "type": "ui_button",
         "z": "d6b69ab9504151ee",
@@ -3208,6 +3233,241 @@
             [
                 "405c8a398f71f82b",
                 "0718b0f2600fc61a"
+            ]
+        ]
+    },
+    {
+        "id": "88a5bde9d33152c3",
+        "type": "telegram receiver",
+        "z": "d6b69ab9504151ee",
+        "name": "AdmiralBathBot - Receiver",
+        "bot": "9c545162aab5227a",
+        "saveDataDir": "",
+        "filterCommands": false,
+        "x": 150,
+        "y": 2860,
+        "wires": [
+            [
+                "984f6f936125c241"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "3389b416f45658fa",
+        "type": "telegram sender",
+        "z": "d6b69ab9504151ee",
+        "name": "AdmiralBathBot - Sender",
+        "bot": "9c545162aab5227a",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1230,
+        "y": 2860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "31277f988614f277",
+        "type": "function",
+        "z": "d6b69ab9504151ee",
+        "name": "function 42",
+        "func": "let payload = {\n    chatId: 284485376,\n    type: \"message\",\n    content: msg.payload\n};\nreturn {payload};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1010,
+        "y": 2860,
+        "wires": [
+            [
+                "3389b416f45658fa"
+            ]
+        ]
+    },
+    {
+        "id": "984f6f936125c241",
+        "type": "switch",
+        "z": "d6b69ab9504151ee",
+        "name": "",
+        "property": "payload.content",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "/LeftStart",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "/LeftStop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "/RightStart",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "/RightStop",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 4,
+        "x": 450,
+        "y": 2860,
+        "wires": [
+            [
+                "c06a1e2d9bf728b6"
+            ],
+            [
+                "96751363e4ddf2f0"
+            ],
+            [
+                "93f77ea5a78e8e88"
+            ],
+            [
+                "80abf11bf9c5e864"
+            ]
+        ]
+    },
+    {
+        "id": "c06a1e2d9bf728b6",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "name": "Left - Start",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Запущен автоматический сценарий для купелей ЛЕВОГО КОРПУСА",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "isStartedLeftScenario",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 670,
+        "y": 2800,
+        "wires": [
+            [
+                "31277f988614f277"
+            ]
+        ]
+    },
+    {
+        "id": "96751363e4ddf2f0",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "name": "Left - Stop",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Остановлен автоматический сценарий для купелей ЛЕВОГО КОРПУСА",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "isStartedLeftScenario",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 670,
+        "y": 2840,
+        "wires": [
+            [
+                "31277f988614f277"
+            ]
+        ]
+    },
+    {
+        "id": "93f77ea5a78e8e88",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "name": "Right - Start",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Запущен автоматический сценарий для купелей ПРАВОГО КОРПУСА",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "isStartedRightScenario",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 670,
+        "y": 2880,
+        "wires": [
+            [
+                "31277f988614f277"
+            ]
+        ]
+    },
+    {
+        "id": "80abf11bf9c5e864",
+        "type": "change",
+        "z": "d6b69ab9504151ee",
+        "name": "Right - Stop",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Остановлен автоматический сценарий для купелей ПРАВОГО КОРПУСА",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "isStartedRightScenario",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 670,
+        "y": 2920,
+        "wires": [
+            [
+                "31277f988614f277"
             ]
         ]
     },
